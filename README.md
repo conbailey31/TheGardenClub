@@ -14,13 +14,13 @@
         <ul>
             <li><a href="https://crowdfund.calpoly.edu/project/17431"> Donate</a></li>
             <li><a href="mailto:cbaile15@calpoly.edu"> Email Us!</a></li>
-            <li><a href="images/Bailey_FoCo3.pdf"> FoCo Brochure</a></li>
+            <li><a href="Bailey_FoCo3.pdf"> FoCo Brochure</a></li>
         </ul>
      </nav> 
     <div class="topnav">
     </div>
     <div class="center">
-        <img id="logo" src="images/foco-logo@2x.png" width="657" alt="Garden Club Logo">
+        <img id="logo" src="foco-logo@2x.png" width="657" alt="Garden Club Logo">
         <h1>Gardening a Better Tommorow!</h1>
         <h2>Join Us in Our Journey Toward Sustainability!</h2>
         <h3>Cal Poly San Luis Obispo, CA 93407</h3>
